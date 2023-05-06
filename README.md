@@ -57,7 +57,7 @@
 
 <h1>My Certificates</h1>
 
-<img src="https://drive.google.com/file/d/1Vaz3bG5R0YekTdTuKQVUKDo-Xu4XAhn_/view?usp=share_link">
+<img src="https://ibb.co/qM4vhGg">
 
 <br>
-<img src="https://drive.google.com/file/d/16krcxnHsHrOl6kQB2CEpWVFiR13YZymu/view?usp=share_link">
+<img src="https://ibb.co/KLvpMr6">
