@@ -52,3 +52,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peermarib1&show_icons=true&locale=en" alt="peermarib1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peermarib1&" alt="peermarib1" /></p>
+
+<br>
+
+<h1>My Certificates</h1>
+
+<img src="">
+
+<br>
+<img src="">
