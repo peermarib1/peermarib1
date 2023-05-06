@@ -57,7 +57,8 @@
 
 <h1>My Certificates</h1>
 
-<img src="https://ibb.co/qM4vhGg">
-
+![codecamp](https://user-images.githubusercontent.com/113082722/236628141-7b8c8c98-a2ad-4d70-aeb5-e096065d51ea.png)
 <br>
-<img src="https://ibb.co/KLvpMr6">
+
+![googleunlocked](https://user-images.githubusercontent.com/113082722/236628276-edc3789b-d9a2-4320-a6e9-334fc09af477.jpg)
+
