@@ -64,4 +64,4 @@
 
 <br>
 
-![Udemy](https://ibb.co/4mQGQYS)
+<img src="https://ibb.co/4mQGQYS" width="100%">
