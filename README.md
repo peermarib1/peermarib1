@@ -63,4 +63,5 @@
 ![googleunlocked](https://user-images.githubusercontent.com/113082722/236628276-edc3789b-d9a2-4320-a6e9-334fc09af477.jpg)
 
 <br>
-<p><img align="center" src="https://ibb.co/4mQGQYS" alt="peermarib1" /></p>
+
+![Udemy](https://ibb.co/4mQGQYS)
