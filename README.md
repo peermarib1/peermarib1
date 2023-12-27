@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A Lot of things<br>👯 I’m looking to collaborate on Some projects<br>👨‍💻 All of my projects are available at https://github.com/peermarib1<br>💬 Ask me about Php, JavaScript<br>📫 How to reach me peermarib@gmail.com<br>📄 Know about my experiences https://github.com/peermarib1<br>⚡ Fun fact Im NAN You're NAN, We're different.<br>
+🔭 I’m currently working on A Lot of things<br><br>👯 I’m looking to collaborate on Some projects<br><br>👨‍💻 All of my projects are available at https://github.com/peermarib1<br><br>💬 Ask me about Php, JavaScript<br><br>📫 How to reach me peermarib@gmail.com<br>📄 Know about my experiences https://github.com/peermarib1<br><br>⚡ Fun fact Im NAN You're NAN, We're different.<br><br>
 
 
 ## 🌐 Socials:
