@@ -21,6 +21,17 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=peermarib1&icon=0&color=7)](https://visitcount.itsvg.in)
 
+
+# 💫 My Certificates:
+![Screenshot_2022_01_31_13_35_44_33_e2d5b3f32b79de1d45acd1fad96fbb0f](https://github.com/peermarib1/peermarib1/assets/113082722/a954ce66-0be5-445f-b675-ed29c567aa6d)
+![Screenshot_20240109_130348_Gallery](https://github.com/peermarib1/peermarib1/assets/113082722/87f4257e-fa8b-4b90-b043-69210c29a149)
+![Screenshot_20240109_130142_Gallery](https://github.com/peermarib1/peermarib1/assets/113082722/1c68c177-cf01-4af5-a82c-bf5a630b8370)
+![20240109_130253](https://github.com/peermarib1/peermarib1/assets/113082722/f6d7c3ac-7972-4098-9992-75179c2a46a9)
+![20230506_184319_0000](https://github.com/peermarib1/peermarib1/assets/113082722/64fb9ef1-694a-4100-8595-da9d261cbf3e)
+![Screenshot_20240109_130205_OneDrive](https://github.com/peermarib1/peermarib1/assets/113082722/2b16b228-004b-453c-82e1-a6743841b4c2)
+
+
+
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/peermarib1) 
 
