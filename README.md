@@ -15,11 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=peermarib1&icon=0&color=7)](https://visitcount.itsvg.in)
 
 
 # 💫 My Certificates:
@@ -31,6 +27,12 @@
 ![Screenshot_20240109_130205_OneDrive](https://github.com/peermarib1/peermarib1/assets/113082722/2b16b228-004b-453c-82e1-a6743841b4c2)
 
 
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=peermarib1&icon=0&color=7)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/peermarib1) 
